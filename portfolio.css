@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+
+}
+carousel-caption {
+    bottom: 50%;
+}
+.carousel-caption img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 50px;
+}
